@@ -55,26 +55,6 @@ that was pretty funny!"
 s촀 bought the
 land that was for sale!\0\0I hope 2heshe gets here soon. (촀\0I need to
 introduce myself!"
-"006","(촀\0Somebody's moving to the island!
-\0
-Yay, n\0! (%촀\0
-\0We need to
-make this newbie feel at home."
-"007","<"
-"007_01","(""촀\0Somebody new moved in today!
-Have you already said hi?
-\0 I want
-to meet them too!"
-"007_02","(촀\0Oh yeah, we've got a new island
-resident starting today! 
-\0(1촀\0
-\0I wonder
-what kind of music they like?
-"
-"007_03","(촀\0Have you already met the new
-neighbor that moved in today?
-\0
-($촀\0It's so fab meeting new people!"
 "008","<"
 "008_01","( 촀\0Ohmigosh!(촀\0
 \0 It's almost
@@ -93,34 +73,23 @@ birthday. Très fabuloso!"
 is coming up, n\0."
 "010","()촀\0It's on the Z$촀 of next month, so I
 need to find a prezzie by then!"
-"011","<"
-"011_01","($촀\0Tomorrow's s촀's
-birthday at last!
-\0\0\0I'm going to work my sparkles off ((촀\0to
-make tomorrow suuuuuper le special
-for 2himher!"
-"011_02","2\0s촀's birthday is
-tomorrow and I still haven't
-wrapped my prezzie yet."
-"011_03","(;촀\0Remember what day tomorrow
-is, n\0?\0\0It's s촀's birthday!
-\0("
 "012","<"
 "012_01","(촀\0Blughn\0\0 So, tomorrow's the day
-s촀 moves away?
-\0(
+s촀 starts packing up
+to move away?
 (촀\0It's going to get son\0\0
 \0lonely.\0\0(촀\0Folks always say that the world's
 pretty small, so maybe we'll
 meet again!"
-"012_02","(촀\0Tomorrow's the day
-s촀 leaves
-the island, huh?
+"012_02","(촀\0So, tomorrow's the day
+s촀 packs up to
+leave the island, huh?
 (촀\0I'm super sad about it, but I'm
 going to start rehearsing
 my goodbye smilen"
 "012_03","(촀\0I can't believe s촀 is
-moving away tomorrow.\0\0Ugh, (촀\0
+going to start getting ready to
+move tomorrow.\0\0Ugh, (촀\0
 \0this is almost as sad as that
 time my favorite TV show was
 canceled andn\0\0\0\0(촀\02\0n\0! What do I do?!
@@ -128,18 +97,6 @@ canceled andn\0\0\0\0(촀\02\0n\0! What do I do?!
 \0
 I'm def going to cry when I tell
 2himher goodbye!"
-"013","<"
-"013_01","(촀\02\0s촀 is moving today!"
-"013_02","(촀\0Today's the day s촀
-is moving awayn\0\0I'm so way sad.\0\0(촀\0If you haven't said bye yet,
-you should go do it while
-there's still time."
-"013_03","(촀\0Today's the day s촀
-moves awayn\0\0
-\0(which is a
-pretty good song lyricn\0\0\0\0But I'm too sad to sing it.
-\0(
-\0KI don't do sad songs anyway, n\0n\0\0\0d"
 "901","()촀\0Remember the Z$촀 of this month!
 \0
 (촀\0It's going to be a birthday bonanza!"

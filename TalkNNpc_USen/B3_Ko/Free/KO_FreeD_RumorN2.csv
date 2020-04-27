@@ -70,38 +70,6 @@ that was up for sale!
 \0 (촀\0Excited to meet
 2himher,
 \0 n\0!"
-"006","(촀\0Got a chance to chat up our newest
-resident yet,
-\0 n\0?\0\0(%촀\0Nice to see our population's growin'
-a bit!
-\0 (촀\0As long as it doesn't grow too
-much or too fast,
-\0 n\0
-\0n"
-"007","<"
-"007_01","(촀\0As of today,
-\0 we got ourselves a new
-resident of n\0!\0\0(\0촀\0All I wanna know is
-\0 (6촀\0who's hostin'
-the welcome party, (촀\0'cause I want
-an invite,
-\0 n\0!"
-"007_02","(&촀\0Have you had a chance to meet our
-new neighbor,
-\0 n\0?\0\0(촀\0They're probably still busy unpackin',
-\0
-(%촀\0but once they're all settled,
-\0 I reckon
-I'll go say howdy,
-\0 n\0."
-"007_03","(;촀\0So I hear tell there's a brand-new
-face around here,
-\0 n\0
-\0n\0\0\0\0(촀\0Just for the sake of island security,
-\0
-I'd better go give 'em a once-over.
-\0
-('촀\0Can never be too careful."
 "008","<"
 "008_01","( 촀\0Ain't (\0촀\0s촀's birthday
 \0
@@ -124,36 +92,14 @@ comin' up soon?"
 s촀's birthday?"
 "010","(촀\0No, wait
 \0n\0\0 I reckon it's on the Z$촀
-(촀\0of next month,
+of next month,
 \0 n\0.\0\0(3촀\0That oughta give us just a mite more
 time to plan a big birthday bash
 \0n"
-"011","<"
-"011_01","(촀\0Aw, no!
-\0( (촀\0Ain't it s촀's
-birthday tomorrow?\0\0(촀\0How do I always manage to forget
-these things?
-\0 (촀\0I'm the worst at last-
-minute gift shoppin',
-\0 n\0."
-"011_02","(촀\0Hey,
-\0 I think tomorrow (촀\0might just be
-s촀's birthday!\0\0(촀\0Lucky that I thought to pick 2himher up a
-present a while ago,
-\0 n\0!
-\0
-(촀\0\0Is what I wish I'd done
-\0n\0\0\0￿"
-"011_03","So,
-\0 (&촀\0did you happen to get anythin'
-for s촀's birthday?\0\0(촀\0Because I can't seem to come up
-with any gift ideas,
-\0 n\0
-\0n"
 "012","<"
-"012_01","(9촀\0Tomorrow is when s촀
-is movin' away
-\0n\0\0\0\0(촀\0Guess I should probably hurry up and
+"012_01","(9촀\0I'm hearing s촀's
+gonna be packin' to move
+out tomorrown\0\0\0\0(촀\0Guess I should probably hurry up and
 return all 2hisher stuff I borrowed
 \0 before
 it's too late,
@@ -161,33 +107,15 @@ it's too late,
 "012_02","( 촀\0Hey,
 \0 n\0!\0\0(촀\0Didja know that s촀
 \0 is
-leavin' here tomorrow?\0\0(촀\0I'm always the last to hear.
+packin' up to leave tomorrow?\0\0(촀\0I'm always the last to hear.
 \0 Hope the
 move is good for 2himher,
 \0 n\0."
-"012_03","(9촀\0Did you know s촀 is
-movin' away tomorrow?\0\0(촀\0It's not like it's goodbye forever,
+"012_03","(9촀\0Did you hear s촀'll be
+packin' up to move tomorrow?\0\0(촀\0It's not like it's goodbye forever,
 \0
 but I'm still gonna miss seein' 2hisher
 face around here,
-\0 n\0."
-"013","<"
-"013_01","So,(촀\0
-\0 this is the day
-\0n\0\0 (촀\0I'm honestly sad
-to see s촀 go.\0\0(촀\0Still,
-\0 least we can do is send 2himher off
-with a smile,
-\0 n\0."
-"013_02","(9촀\0Today is s촀's last
-day on the island.\0\0(촀\0Better get your goodbyes in while
-the gettin's good,
-\0 n\0."
-"013_03","(촀\0Just realized this is the last day that
-s촀 will be with us
-\0n\0\0\0\0(촀\0Reckon you never know when you'll
-cross paths with someone again, but
-it's still a little sad,
 \0 n\0."
 "901","(촀\0Yeah
 \0n\0\0pretty sure it's on the Z$촀.
