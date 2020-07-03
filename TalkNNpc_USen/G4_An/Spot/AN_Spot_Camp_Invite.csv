@@ -131,10 +131,7 @@ understanding, butn\0\0
 \0( (4촀\0Yeah, I was
 kinda getting hyped for a sec there."
 "203_01","(촀\0Rock! 
-\0Alright, this is gonna be real
-easy.
-\0 I'll just shuffle some cards
-real quickn"
+\0Alright, let's get started!"
 "204","<"
 "204_01","(7촀\0I win this round.
 \0 That's just how the
@@ -242,14 +239,13 @@ I thought you wantedn\0\0
 \0( (촀\0Whatever.
 \0
 I can take a hint."
-"302","(%촀\0So,
-\0 I just got off the phone with
+"302","(%촀\0So I just got off the phone with
 \0Resident Services\0￿n\0\0
 \0( ('촀\0Yeah, it's not
 gonna work out.\0\0(8촀\0They said something about there not
 being enough room for me to have
-my own place.\0\0(촀\0They DID tell me I could move in with
-someone,
+my own place.\0\0(촀\0I guess I could ask someone to move
+in with them,
 \0 but I'm kinda over the
 whole 
 \0""having roommates"" thing.\0\0(촀\0
@@ -259,7 +255,7 @@ with someone instead, n\0!\0\0()촀\0I've got a rockin' pad back home.
 \0
 It's all theirs if I can take their spot.
 \0(
-(&촀\0Mind l if I ask someone to swap?"
+(&촀\0Mind if I ask someone to swap?"
 "302_a","Do it!"
 "302_b","I mind..."
 "303","(촀\0Ahn\0\0
@@ -321,6 +317,25 @@ whole ""introductions"" thing.\0\0(%촀\0And you'ren\0\02\0n\0!
 Cool.
 \0( (촀\0It rocks to finally meet
 you, new-neighbor!"
+"309_01","(촀\0So I went by, and guess what?
+\0( (촀\0The
+place was empty! 
+\0No furniture, no
+nothing, n\0!(촀\0\0\0Guess that makes it my lucky day!
+\0
+(촀\0I can't wait to move in. 
+\0This island
+isn't gonna know what hit it!\0\0( 촀\0Oh! 
+\0Did we ever do intros?
+\0( (""촀\0I'm
+n
+\0, by the way. 
+\0And
+you'ren\0\0n\0. 
+\0Got it!\0\0(\0촀\0Alright, 
+\0well,
+\0 (촀\0I'll see you around,
+neighbor n\0!"
 "310","(4촀\0Son\0\0
 \0are you backing out,
 \0 or can you

@@ -515,6 +515,19 @@ famous designers say."
 (&촀\0if you don't mind?"
 "166_a","(%촀\0OK!"
 "166_b","('촀\0I need more time."
+"167","(%촀\0I'd like to review your outfit without
+a wet suit over the top. 
+\0((촀\0Thanks for
+helping me out."
+"168","(&촀\0Oh
+\0, are you about to go swimming?
+\0((촀\0
+The sea here is very beautiful,
+isn't it?
+(7촀\0Justn\0\0please don't put on a wet suit
+when it's time for me to check your
+outfit. 
+\0(촀\0Thanks, I appreciate it."
 "200","(\0촀\0So, I'd like you to show me a
 \0party outfit\0￿.\0\0()촀\0Say you and your best friend were
 going to a fancy soiree. 
@@ -537,7 +550,7 @@ or, say, 
 "204","(\0촀\0I'd love it if you showed me an outfit
 that's \0outdoorsy\0￿.\0\0()촀\0Imagine you're going for a hike or
 perhaps camping. What would
-you would wear?
+you wear?
 (""촀\0You could also try on some casual,
 \0
 loose-fitting clothes.

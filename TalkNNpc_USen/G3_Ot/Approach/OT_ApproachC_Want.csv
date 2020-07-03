@@ -11,7 +11,7 @@ what number seven was!
 I've been keeping my eyes PEELED.
 
 \0(촀\0Alas, I've had no luck at all.
-(7촀\0So n\0, 
+(7촀\02\0n\0, 
 \0if you happen
 to know where to find onen\0\0\0\0(촀\0Oh my goodness, what?!
 \0
@@ -56,15 +56,13 @@ me?!
 "003_a","(\0촀\0Make an offer!"
 "003_b","Sorry, I can't."
 "004","(촀\0Just when I absolutely must have
-2\0}\0\0,
-\0
-they become impossible to find!
-Oh dearn\0\0 (촀\0I'm kicking myself for not
-getting one earlier.\0\0(7촀\0But n\0,
+2\0}\0\0n\0\0\0\0They become impossible to find!
+Oh dearn\0\0 (촀\0I'm kicking myself for
+not getting one earlier.\0\0(7촀\0But, n\0,
 \0 I understand
 that YOU just so happen to have
 2\0}\0\0.
-(촀\0You do! Oh happy day!
+(촀\0You do! Oh, happy day!
 \0 (촀\0You simply
 must let me buy it from you!"
 "004_a","(\0촁\0Sure, how much?"

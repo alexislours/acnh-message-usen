@@ -19,7 +19,7 @@ Drowsy in the daytime.
 \0Pardon men"
 "004","(촀\0Good morning, 
 \0n\0!"
-"005","(촀\0Why hello,
+"005","(촀\0Why, hello,
 \0 n\0!"
 "006","(촀\0Good evening, 
 \0n\0!"
@@ -469,6 +469,24 @@ on display.
 "148","(촀\0Hmmn\0\0it gives one pause to see
 2\0}\0\0 up
 close like this."
+"149","()촀\0We are currently accepting \0bugs\0￿,
+\0
+\0fish\0￿, 
+\0\0sea creatures\0￿, 
+\0and properly
+assessed \0fossils\0￿n"
+"150","()촀\0We accept donations of \0bugs\0￿,
+\0 \0fish\0￿,
+\0
+\0sea creatures\0￿, 
+\0and officially
+assessed \0fossils\0￿n"
+"151","()촀\0We accept donations of \0bugs\0￿,
+\0 \0fish\0￿,
+\0
+\0sea creatures\0￿, 
+\0properly assessed
+\0fossils\0￿, and \0works of art\0￿n"
 "201","Alas,
 \0('촀\0 you have no unknown fossils
 for me to inspect.\0\0(촀\0Not to worry, 
@@ -892,15 +910,42 @@ humor for you there.\0\0(7촀\0Ahem. 
 \0 That is to sayn\0\0\0\0(""촀\0THANK YOU for your commitment to
 collecting and donating fossils.\0\0(촀\0Our humble museum's reputation is
 growing because of you."
-"406","Hoo hoo! Oh myn\0\0\0\0This is the final piece we need for
-our art collection! Our art gallery
-is now complete!
-And you, n\0, you are
-the very definition of a patron
-of the arts. I salute you!
-Thank you for your efforts in helping
-us put together such a fine collection
-of artwork. Well done! Hoo hoo!"
+"406","(촀\0Hoo hoo! 
+\0Hoorah!
+\0 Oh, happy day!
+\0(
+(촀\0This is the final piece we needed to
+make our art collection complete!
+()촀\0The island's art gallery is filled to
+the brim with the very finest works
+of art.
+(촀\0And the heart of your humble
+curator is filled to overflowing
+with gratitude.
+(""촀\0You, 
+\0n\0,
+\0 YOU are a
+true patron of the arts.
+\0(촀\0
+And I salute you!
+\02(촀"
+"410","(촀\0Wot wot?!
+\0 Is it truly true? 
+\0(&촀\0With this
+donation, our sea-creature collection
+is now complete?!
+(!촀\0Hoot!
+\0 Huzzah, I say! 
+\0Hoooooray!
+\0(
+(\0촀\0And most importantlyn\0\0(촀\0THANK YOU!\0\0(촀\0What a win it is to have the ocean's
+many splendored wonders here
+for all to gaze upon.
+(촀\0I say, 
+\0your hard work is well and
+truly appreciated.
+\0 (촀\0And we are
+forever in your debt."
 "501","()촀\0Our noble institution displays relics,
 rare items, and masterpieces from
 a variety of disciplines.
